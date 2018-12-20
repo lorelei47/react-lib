@@ -49,3 +49,7 @@
 > * Mozaik有很多主题可供开发人员用来创建个性化主题。它允许网格定位，优化的后端通信，并且还可以在需要时使用多个仪表板。
 > * [Mozaik](http://mozaik.rocks/)
 > * [github](https://github.com/plouc/mozaik)
+
+## 11.fusioncharts
+> * FusionCharts是一个Flash的图表组件，它可以用来制作数据动画图表，其中动画效果用的是Adobe Flash 8 （原Macromedia Flash的）制作的flash ， FusionCharts可用于任何网页的脚本语言类似于HTML ， .NET，ASP ， JSP， PHP ， ColdFusion等，提供互动性和强大的图表。
+> * [fusioncharts](https://www.fusioncharts.com/)
